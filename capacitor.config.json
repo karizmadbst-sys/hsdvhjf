@@ -1,0 +1,15 @@
+{
+  "appId": "com.echo.theworldremembers",
+  "appName": "ECHO - The World Remembers",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "webContentsDebuggingEnabled": true,
+    "backgroundColor": "#060a12"
+  }
+}
